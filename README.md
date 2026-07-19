@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
