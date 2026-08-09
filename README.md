@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/1441-build-an-array-with-stack-operations) |
@@ -68,6 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
