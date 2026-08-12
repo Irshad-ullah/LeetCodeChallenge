@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0520-detect-capital](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0520-detect-capital) |
 ## Trie
 |  |
 | ------- |
