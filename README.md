@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0482-license-key-formatting](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0520-detect-capital) |
+| [0831-masking-personal-information](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0831-masking-personal-information) |
 ## Trie
 |  |
 | ------- |
