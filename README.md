@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0482-license-key-formatting](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0831-masking-personal-information) |
 ## Trie
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/1354-construct-target-array-with-multiple-sums) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
