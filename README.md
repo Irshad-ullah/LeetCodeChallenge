@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Irshad-ullah/LeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
